@@ -1,4 +1,4 @@
-***NewlineActivityItemProvider*** was developed because some activities like use the <br/> character instead of the normal \n newline character and UIActivityViewController does not provide a method to distinguish which activity you are using to share without subclassing it.
+***NewlineActivityItemProvider*** was developed because some activities like WhatsApp use the <br/> character instead of the normal \n newline character and UIActivityViewController does not provide a method to distinguish which activity you are using to share without subclassing it.
 
 How to use it:
 
